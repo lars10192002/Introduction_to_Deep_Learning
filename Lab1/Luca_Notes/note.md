@@ -12,6 +12,8 @@ https://ithelp.ithome.com.tw/users/20112568/ironman/2384?page=1
 
 
 https://yoyoyohamapi.gitbooks.io/mit-ml/content/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/articles/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B.html
+8. stacking
+https://zhuanlan.zhihu.com/p/109924294
 
 
 
