@@ -1,3 +1,13 @@
+
+# DNN 
+- https://www.kaggle.com/zoupet/neural-network-model-for-house-prices-tensorflow
+- https://www.kaggle.com/hugosjoberg/house-prices-prediction-using-keras
+
+
+
+
+
+
 ##參考
 1.https://zh.d2l.ai/chapter_deep-learning-basics/kaggle-house-price.html
 2.https://www.kesci.com/home/project/5d085c2ae727f8002c710143
