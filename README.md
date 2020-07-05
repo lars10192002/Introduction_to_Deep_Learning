@@ -1,6 +1,25 @@
 # Introduction to Deep Learning
 - NCU-CS-HW
 
+
+## Kaggle lab2 member
+- TreNDS_hw.ipnyb
+- Arthur_lab3.ipynb
+
+## Kaggle lab3 Rank
+![image](image/7.png)
+
+## Report - lab3.docx
+
+
+參考資料: 
+http://www3.stat.sinica.edu.tw/brain/RF1/RF1.html
+https://www.researchgate.net/figure/Functional-network-connectivity-FNC-and-classification-the-first-step-in-FNC-is-to_fig1_256542357
+https://www.airitilibrary.com/Publication/alDetailedMesh?docid=P20160822001-201312-201608220034-201608220034-17-26
+https://keras.io/zh/metrics/
+https://www.kaggle.com/rohitsingh9990/trends-eda-visualization-simple-baseline
+
+
 # Lab2.
 ## Herbarium 2020 - FGVC7
 Identify plant species from herbarium specimens. Data from New York Botanical Garden.
